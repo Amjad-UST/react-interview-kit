@@ -1,10 +1,11 @@
-import './App.css'
+import './App.css';
+import ProductPage from './Pages/ProductPage';
 
 function App() {
 
   return (
     <>
-      <h1>React Interview Kit</h1>
+      <ProductPage />
     </>
   )
 }
